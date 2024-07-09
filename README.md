@@ -4,7 +4,7 @@ There are four main scripts to run:
 - `qlearning_agent.py`: Agent implemented using the Q-Learning algorithm.
 - `sarsa_agent.py`: Agent implemented using the SARSA algorithm.
 
-Q-Learning:
+### Q-Learning:
 
 A reinforcement learning technique where the agent learns to act in a way that maximizes the expected reward over time.
 
